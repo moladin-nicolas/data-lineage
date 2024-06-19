@@ -100,7 +100,7 @@ def get_lineage(df_edges, selected_table):
 
 ##### APP #####
 st.set_page_config(layout='wide')
-st.title('Data Lineage')
+# st.title('Lineage')
 
 # # file uploader
 # uploaded_file = st.file_uploader('Upload CSV', type='csv')
